@@ -2,9 +2,9 @@
 
 Zimski zadatak:
 Na papiru skicirati željeni izgled stranice za završni rad i to kroz:
-početna stranica
-login stranica
-nadzorna ploča (ona stranica koja se pojavljuje nakon logina)
+1. početna stranica
+2. login stranica
+3. nadzorna ploča (ona stranica koja se pojavljuje nakon logina)
 Te tri stranice prelomiti koristeći PHP direktivu include_once i to na sljedeće načine
 koristeći foundation
 koristeći bootstrap
