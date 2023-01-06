@@ -3,4 +3,38 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    color: #fff;
   }
+
+.largeButton a {
+  background-color: #0D98BA;
+  color: white;
+  font-size: 18px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10%;
+  opacity: 0.4;
+  letter-spacing: 0.1em;
+}
+
+.largeButton a:hover {
+  background-color: #0D98BA;
+  color: white;
+  font-size: 20px;
+  padding: 12px 17px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10%;
+  opacity: 0.9;
+}
