@@ -11,8 +11,17 @@
     <?php include_once 'template\navbar.php'; ?>
 </head>
 <body>
-
-
+<link rel="stylesheet" href="css/app.css">
+  <section class="section">
+    <div class="container">
+      <h1 class="title">
+      Welcome to winter assignment
+      </h1>
+    <div class = "login">
+        <a href="login.php" target="_blank"> Login </a>
+    </div>
+    </div>
+  </section>
 <hr>
 <?php include_once 'template\footer.php'; ?>
 </body>
