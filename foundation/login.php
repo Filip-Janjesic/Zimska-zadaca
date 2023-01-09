@@ -14,8 +14,8 @@
         </style>
         <div class="grid-container">
             <link rel="stylesheet" type="text/css" href="app.css">
-            <?php include_once 'template\head.php'; ?>
-            <?php include_once 'template\titlebar.php'; ?>
+            <?php include_once __DIR__ . '/template/head.php'; ?>
+    <?php include_once __DIR__ .'/template/titlebar.php'; ?>
         </div>
 
     </head>
@@ -42,11 +42,10 @@
                    
                 </div>
             <hr>
-            <?php include_once 'template\footer.php'; ?> 
-            </div>
- 
-
-        <?php include_once 'template\skripte.php'; ?>
+            <hr>
+    <?php include_once __DIR__ .'/template/footer.php'; ?>
+    </div>
+     <?php include_once __DIR__ .'/template/skripte.php'; ?>
 
     </body>
 </html>

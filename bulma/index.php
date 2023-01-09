@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="css/bulma.min.css">
     <link rel="stylesheet" href="css/app.css">
     <script src='js/bootstrap.min.js'></script>
-    <?php include_once 'template\head.php'; ?>
-    <?php include_once 'template\navbar.php'; ?>
+    <?php include_once __DIR__ . '/template/head.php'; ?>
+    <?php include_once __DIR__ .'/template/navbar.php'; ?>
 </head>
 <body>
 <link rel="stylesheet" href="css/app.css">
@@ -23,6 +23,6 @@
     </div>
   </section>
 <hr>
-<?php include_once 'template\footer.php'; ?>
+<?php include_once __DIR__ .'/template/footer.php'; ?>
 </body>
 </html>
