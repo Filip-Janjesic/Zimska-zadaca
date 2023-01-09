@@ -30,7 +30,6 @@
                             E - mail <input type="text"  name="email">
                              <input type="submit">
                              <input type="reset">
-
                         </form>                      
                     </div>                   
                 </div>
