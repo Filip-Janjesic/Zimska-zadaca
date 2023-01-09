@@ -1,1 +1,1 @@
-<h6 style="color: black;"> &copy; <?php echo date('Y'); ?> Zimska zadaća Edunova
+<h6 style="color: black;"> &copy; <?php echo date('Y'); ?> Winter assignment Foundation - Edunova

@@ -13,7 +13,7 @@
   <body>
 
     <div class="grid-container" style= "padding: 5em;">
-      <div class="centered" style= "font-size: 3em;"> Dobrodošli na zimski zadatak </div>
+      <div class="centered" style= "font-size: 3em;"> Welcome to winter assignment </div>
         <div class = "largeButton">
           <a href="login.php" target="_blank"> Login </a>
         </div>
